@@ -1,7 +1,4 @@
-# Hi there 👋 I'm Jonas
-
-<!--
-**JonasFibiger/JonasFibiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 I'm Jonas
 
 I'm a software developer, automation architect, and CTO at [LÖFT Consulting](https://www.loftconsulting.dk), where we accelerate the digital and sustainable transformation of the construction and real estate industry.
 
