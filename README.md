@@ -2,7 +2,7 @@
 
 I'm a software developer, automation architect, and CTO at [LÖFT Consulting](https://www.loftconsulting.dk), where we accelerate the digital and sustainable transformation of the construction and real estate industry.
 
-## 🚀 What I do
+### 🚀 What I do
 
 I work at the intersection of **technology, psychology, and strategy**, turning complex problems into functional, scalable solutions. My work typically involves:
 
@@ -14,17 +14,17 @@ I work at the intersection of **technology, psychology, and strategy**, turning 
 - 📦 Managing SaaS and CRM systems for consultants and SMBs
 - 💡 Advising clients on the twin transition: digital + sustainable
 
-## 👨‍💻 CTO @ LÖFT
+### 👨‍💻 CTO @ LÖFT
 
 At LÖFT, I lead the technical development of solutions that make it easier for SMEs in construction to compete through smart tech. That means automating what can be automated – and understanding what shouldn't be. I focus on bridging strategy and implementation so that tech actually gets used.
 
-## 🌍 Side projects
+### 🌍 Side projects
 
 - **Bluprintz**: Helping over 20 clients build no-code automations and websites  
 - **Harmonix**: Co-founder of a music platform connecting 150+ singers, also used for corporate team-building through music  
 - Occasional freelance work with AI solutions, UI/UX design, and automation systems
 
-## 🎶 Music is my second language
+### 🎶 Music is my second language
 
 Outside of tech, I'm also a pianist and songwriter. I believe the best ideas often emerge when logic meets intuition.
 
